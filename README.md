@@ -1,7 +1,3 @@
-# Reto Inteligencia Artificial y Big Data 
+# Sonómetros en Bilbao
 
-Reto para la especialización de FP de Inteligencia Artificial y Big Data,
-en el cual analizamos la red de sonómetros de Bilbao, para ello utilizaremos 
-Colab de Google.
-
-By Iker Lobo Pérez
+En el marco del Master de Inteligencia Artificial y Big Data, he desarrollado un proyecto de análisis de ruido de los sonómetros de Bilbao. El objetivo del proyecto es identificar las zonas de la ciudad con mayor contaminación acústica y comprender los factores que la provocan.
